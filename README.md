@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-___
->### <p align="center"> My Social Network </p>
+>### My Social Network
 >
-> [<p align="center"><img src="./my-img/ImagesMedia/linkedin.png" width="30">](https://www.linkedin.com/in/khadem-mh)
+> [<img src="./my-img/ImagesMedia/linkedin.png" width="30">](https://www.linkedin.com/in/khadem-mh)
 > [<img src="./my-img/ImagesMedia/github.png" width="30">](https://github.com/khadem-mh)
 > [<img src="./my-img/ImagesMedia/telegram.png" width="30">](https://web.telegram.org/k/#6411851503)
-> [<img src="./my-img/ImagesMedia/whatsapp.png" width="30"></p>](https://wa.me/989031335939)
-> [<p align="center"><img src="./my-img/ImagesMedia/wakatimesvg.png" width="130"></p>](https://wakatime.com/@khadem_mh)
+> [<img src="./my-img/ImagesMedia/whatsapp.png" width="30">](https://wa.me/989031335939)
+> [<img src="./my-img/ImagesMedia/wakatimesvg.png" width="130">](https://wakatime.com/@khadem_mh)
