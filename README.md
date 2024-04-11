@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=transparent&card_width=495)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khadem_mh&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
