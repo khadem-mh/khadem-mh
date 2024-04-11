@@ -1,9 +1,8 @@
 <p align="center"><img src="./my-img/header.png" width="100%" ></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=transparent&card_width=1018)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=transparent&card_width=1018&card_heigth=700)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khadem_mh&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **khadem-mh/khadem-mh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
