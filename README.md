@@ -42,19 +42,23 @@ const my = {
 
 }
 ```
-<h2>⚡️ &nbsp; Github Stats</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=dark&card_width=509" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=dark&layout=donut"/></p>
-
-
-<h3>👨‍💻 &nbsp; About Me</h3>
-
-- 🤔 &nbsp; Sabzlearn Javascript Courses Coach
-- 🎓 &nbsp; Student of IT Subject In University
-- 💼 &nbsp; Working as a Mern Stack Developer
-- 🌱 &nbsp; Learning Git & Github
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
-
+ 
+ <ul>
+   <li>
+       <h2>👨‍💻 &nbsp; About Me</h2>
+     <ul>
+       <li>🤔 &nbsp; Web Developer, React Js Expert and Interested in Learning More in FrontEnd</li>
+       <li>🔭 &nbsp; I’m Currently Working on Home</li>
+       <li>🎓 &nbsp; Student of Software Engineering at University</li>
+       <li>💼 &nbsp; Working as a FrontEnd Developer</li>
+       <li>🌱 &nbsp; I’m Currently Learning React Js</li>
+       <li>✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))</li>
+       <li>⚡ &nbsp; Fun fact: No matter what people tell you, words and ideas can change the world</li>
+     </ul>
+   </li>
+ </ul>
+  
+<br />
 <h2>🔧 &nbsp; Tech Stack</h2>
 
 - 💻 &nbsp;
@@ -88,6 +92,9 @@ const my = {
 <br />
 
 
+<h2>⚡️ &nbsp; Github Stats</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=dark&card_width=509" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=dark&layout=donut"/></p>
 
 
 <!--
