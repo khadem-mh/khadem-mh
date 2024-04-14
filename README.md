@@ -45,8 +45,8 @@ const my = {
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=transparent&card_width=509" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=transparent&layout=donut"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=dark&card_width=509" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=dark&layout=donut"/></p>
 
 
 <!--
