@@ -45,7 +45,7 @@ const my = {
  <br />
  <h2>👨‍💻 &nbsp; About Me</h2>
  
-  🤔 &nbsp; Web Developer, React Js Expert and Interested in Learning More in FrontEnd
+  🤔 &nbsp; Web Developer, React Js Expert and Interested in Learning More in FrontEnd 
   
   🔭 &nbsp; I’m Currently Working on Home
   
@@ -58,6 +58,8 @@ const my = {
   ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
   
   ⚡ &nbsp; Fun fact: No matter what people tell you, words and ideas can change the world
+
+  👨‍💻 &nbsp; [![wakatime](https://wakatime.com/badge/user/018b4892-e710-46b4-b4ae-e6aa1f2f641d.svg)](https://wakatime.com/@018b4892-e710-46b4-b4ae-e6aa1f2f641d)
   
 <br />
 <h2>🔧 &nbsp; Tech Stack</h2>
@@ -81,10 +83,7 @@ const my = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=transparent&layout=donut&hide_border=true"/>
 
 
-<!--
-**khadem-mh/khadem-mh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 >### Languages
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=55&height=25&lines=Html5)
@@ -92,11 +91,17 @@ Here are some ideas to get you started:
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=55&height=25&lines=Css3)
 >> 
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=FAFF09&random=false&width=100&height=25&lines=JavaScript)
+>> 
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=100&height=25&lines=React+Js)
+>> 
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=100&height=25&lines=Redux)
+>> 
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=ccc&random=false&width=100&height=25&lines=Next+Js)
 
 >### Packages
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=Bootstrap+Icons)
 
--->
+
 
 >### My Social Network
 >
@@ -105,4 +110,4 @@ Here are some ideas to get you started:
 >>>> [<img src="./my-img/ImagesMedia/pintrest.png" width="30">](https://pinterest.com/khadem_mh)
 >>>>> [<img src="./my-img/ImagesMedia/telegram.png" width="30">](https://t.me/mhkhadem)
 >>>>>> [<img src="./my-img/ImagesMedia/whatsapp.png" width="30">](https://wa.me/989031335939)
->>>>>>> [<img src="./my-img/ImagesMedia/wakatimesvg.png">](https://wakatime.com/@khadem_mh)  [![wakatime](https://wakatime.com/badge/user/018b4892-e710-46b4-b4ae-e6aa1f2f641d.svg)](https://wakatime.com/@018b4892-e710-46b4-b4ae-e6aa1f2f641d)
+>>>>>>> [<img src="./my-img/ImagesMedia/wakatimesvg.png">](https://wakatime.com/@khadem_mh)
