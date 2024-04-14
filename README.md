@@ -76,8 +76,9 @@ const my = {
 
 
 <h2>⚡️ &nbsp; Github Stats</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=dark&card_width=509" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=dark&layout=donut"/></p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@khadem_mh&hide_border=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=transparent&card_width=509&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=transparent&layout=donut&hide_border=true"/>
 
 
 <!--
