@@ -18,12 +18,12 @@ const my = {
                                                                                ///My Languages
   Languages: [
 
-    {lang: 'Html       ', learn: '95%'},
-    {lang: 'Css        ', learn: '85%'},
-    {lang: 'Regex      ', learn: '65%'},
-    {lang: 'JavaScript ', learn: '85%'},
-    {lang: 'React Js   ', learn: '60%'},
-    {lang: 'Redux      ', learn: '55%'},
+    {lang: 'Html       '},
+    {lang: 'Css        '},
+    {lang: 'Regex      '},
+    {lang: 'JavaScript '},
+    {lang: 'React Js   '},
+    {lang: 'Redux      '},
     {lang: 'Next Js    ', learn: '...'},
 
   ],
