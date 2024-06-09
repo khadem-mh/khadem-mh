@@ -1,6 +1,6 @@
-<p align="center"><img src="./my-img/header-1.png" width="100%" ></p>
+<p align="center"><img src="./my-img/header-1.png" width="100%" ></p> 
 
-# <p align="center">∞ Welcome To My Account ∞</p>
+# <p align="center">Hi there 👋 I'm Mohammad Hossein (khadem) 👨‍💻</p>
 ```javascript
 const my = {
                                                                                ///My Account
@@ -10,7 +10,6 @@ const my = {
       firstName: "Mohhamad Hossein                     ",
       lastName:  "Khadem al - Mahdi                    ",
       field:     "FrontEnd Web Developer               ",
-      bio:       "Hi there 👋 I'm Mohammad Hossein 👨‍💻 ",
       interest:  "95%                                  ",
     }
 
