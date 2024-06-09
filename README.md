@@ -110,5 +110,5 @@ const my = {
 >>>> [<img src="./my-img/ImagesMedia/telegram.png" width="30">](https://t.me/mhkhadem)
 >>>>> [<img src="./my-img/ImagesMedia/whatsapp.png" width="30">](https://wa.me/989031335939)
 >>>>>> [<img src="./my-img/ImagesMedia/x.png" width="30">](https://x.com/khadem_mh)
->>>>>>> [<img src="./my-img/ImagesMedia/codepen.png" width="30">](https://codepen.io/khadem-mh)
+>>>>>>> [<img src="./my-img/ImagesMedia/codepen.png">](https://codepen.io/khadem-mh)
 >>>>>>>> [<img src="./my-img/ImagesMedia/wakatimesvg.png">](https://wakatime.com/@khadem_mh)
