@@ -9,7 +9,6 @@ const my = {
     {
       firstName:   "Mohhamad Hossein         ",
       lastName:    "Khadem al - Mahdi        ",
-      Work stay:   "Dubai"                   ",
       originality: "Iran"                    ",
       field:       "FrontEnd Web Developer   ",
       interest:    "99%                      ",
