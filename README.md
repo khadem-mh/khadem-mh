@@ -47,7 +47,7 @@ const my = {
  
   🤔 &nbsp; Web Developer, Next Js Expert and Interested in Learning More in FrontEnd 
   
-  👨‍💻 &nbsp; Work stay in Dubai
+  👨‍💻 &nbsp; Work stay in Home
   
   💼 &nbsp; Working as a FrontEnd Developer
   
