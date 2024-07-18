@@ -55,12 +55,16 @@ const my = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=transparent&layout=donut&hide_border=true&cache_buster=1" />
 --->
 
-> ### System and Editor
+>>>>>>>>>>> ### System and Editor
 >> [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+>>
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=Windows)
 >> 
 >> [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+>>
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=VsCode) 
 >
->### Languages
+>>>>>>>>>>>### Languages
 >> [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 >> 
 >>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=Html5)
@@ -84,7 +88,7 @@ const my = {
 >> [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
 >> 
 >>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=ccc&random=false&width=150&height=25&lines=Next+Js)
->### Other
+>>>>>>>>>>>### Other
 >> [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 >> 
 >>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=Git)
@@ -97,7 +101,7 @@ const my = {
 >> 
 >>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=Tailwind+css)
 
->### My Social Network
+>>>>>>>>>>>### My Social Network
 >
 >> [<img src="./my-img/ImagesMedia/linkedin.png" width="30">](https://www.linkedin.com/in/khadem-mh)
 >>> [<img src="./my-img/ImagesMedia/github.png" width="30">](https://github.com/khadem-mh)
