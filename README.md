@@ -48,65 +48,54 @@ const my = {
 <br />
 <!---
 <h2>🔧 &nbsp; Tech Stack</h2>
-
-
-| Logo | Value |
-| ------ | ----------- |
-|🌐| <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5"> <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/> <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"> <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"> <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=skyblue" alt="Redux"> <img src="https://img.shields.io/badge/-Next%20Js-333333?style=flat&logo=next.js" alt="Next Js">
-|⚙️| ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-|🔧| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
 <br />
 <h2>⚡️ &nbsp; Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=khadem-mh&show_icons=true&theme=transparent&card_width=509&hide_border=true&cache_buster=1" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@khadem_mh&hide_border=true&theme=transparent&cache_buster=1" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadem-mh&theme=transparent&layout=donut&hide_border=true&cache_buster=1" />
 --->
-<div align="center">
-  
->> [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
->>
->> [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
->> 
->>
->>
->> 
->>
->> 
->>
->>
->>
->> 
->>
->>
->>
->> 
->> 
->>
->>
->>
 
-</div>
-  
+> ### System and Editor
+>> [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+>> 
+>> [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+>
 >### Languages
->> [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=Html5)
+>> [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 >> 
->> [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=Css3)
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=Html5)
 >> 
->> [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=FAFF09&random=false&width=150&height=25&lines=JavaScript)
+>> [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 >> 
->> [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=React+Js)
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=Css3)
 >> 
->> [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=Redux)
+>> [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 >> 
->> [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=ccc&random=false&width=150&height=25&lines=Next+Js)
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=FAFF09&random=false&width=150&height=25&lines=JavaScript)
+>> 
+>> [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+>> 
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=React+Js)
+>> 
+>> [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+>> 
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=Redux)
+>> 
+>> [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
+>> 
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=ccc&random=false&width=150&height=25&lines=Next+Js)
 >### Other
->> [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=Git)
+>> [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 >> 
->> [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=Bootstrap)
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=Git)
+>> 
+>> [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+>> 
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=Bootstrap)
 >>
->> [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=Tailwind+css)
+>> [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+>> 
+>>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=Tailwind+css)
 
 >### My Social Network
 >
