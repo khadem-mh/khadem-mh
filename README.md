@@ -2,35 +2,7 @@
 # <p align="center">Hi there 👋 I'm Mohammad Hossein (khadem) 👨‍💻</p>
 <p align="center"><img src="./my-img/2024-10-01_17-25-38.png" width="100%" ></p> 
 
-```javascript
-const my = {
-                                                                               ///My Account
-  Account: [
-
-    {
-      firstName:   "Mohhamad Hossein         ",
-      lastName:    "Khadem al - Mahdi        ",
-      field:       "FrontEnd Web Developer   ",
-      interest:    "99.99%                      ",
-    }
-
-  ],
-                                                                               ///My Languages Programming
-  Languages: [
-
-    {lang: 'Html       '},
-    {lang: 'Css        '},
-    {lang: 'Regex      '},
-    {lang: 'JavaScript '},
-    {lang: 'React Js   '},
-    {lang: 'Redux      '},
-    {lang: 'Next Js    ', learn: '...'},
-
-  ],
-}
-```
  <br />
- <h2>👨‍💻 &nbsp; About Me</h2>
  
   🤔 &nbsp; Web Developer, Next Js Expert and Interested in Learning More in FrontEnd 
   
