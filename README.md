@@ -1,6 +1,6 @@
 
 # <p align="center">Hi there 👋 I'm Mohammad Hossein (khadem) 👨‍💻</p>
-<p align="center"><img src="./my-img/2024-10-01_17-25-38.png" width="100%" ></p> 
+<p align="center"><img src="my-img/2024-10-01_17-25-38.png" width="100%" ></p> 
 
  <br />
  
