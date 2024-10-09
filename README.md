@@ -6,7 +6,7 @@
  
   🤔 &nbsp; Web Developer, Next Js Expert and Interested in Learning More in FrontEnd 
   
-  👨‍💻 &nbsp; Work stay in Home
+  👨‍💻 &nbsp; Work stay in office
   
   💼 &nbsp; Working as a FrontEnd Developer
   
