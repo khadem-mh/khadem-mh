@@ -8,7 +8,7 @@
   
   👨‍💻 &nbsp; Work stay in office
   
-  💼 &nbsp; Working as a FrontEnd Developer
+  💼 &nbsp; Working as a FrontEnd Web Developer
   
   ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
   
