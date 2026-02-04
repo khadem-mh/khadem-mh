@@ -1,5 +1,5 @@
 
-<p align="center"><img src="my-img/2024-10-01_17-25-38.png" width="100%" ></p> 
+<!--<p align="center"><img src="my-img/2024-10-01_17-25-38.png" width="100%" ></p> -->
 
  <br />
  
@@ -104,7 +104,7 @@ Mr. Khadem al-Mahdi is not only technically sharp but also mentally agile—a va
 >> 
 >>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=150&height=25&lines=Tailwind+css)
 >>
->><!---
+<!---
 >>>>>>> ### My Social Network
 >>
 >> [<img src="./my-img/ImagesMedia/linkedin.png" width="30">](https://www.linkedin.com/in/khadem-mh)
@@ -113,4 +113,5 @@ Mr. Khadem al-Mahdi is not only technically sharp but also mentally agile—a va
 >>>>> [<img src="./my-img/ImagesMedia/whatsapp.png" width="30">](https://wa.me/989031335939)
 >>>>>> [<img src="./my-img/ImagesMedia/x.png">](https://x.com/khadem_mh)
 >>>>>>> [<img src="./my-img/ImagesMedia/codepen.png">](https://codepen.io/khadem-mh)
->>>>>>>> [<img src="./my-img/ImagesMedia/wakatimesvg.png">](https://wakatime.com/@khadem_mh)--->
+>>>>>>>> [<img src="./my-img/ImagesMedia/wakatimesvg.png">](https://wakatime.com/@khadem_mh)
+--->
