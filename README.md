@@ -1,8 +1,3 @@
-<br />
-
-Founder at CardDev | Frontend Engineer · React · Next.js · 5+ years building fast, scalable & visually engaging web products
-
-<br />
 
 > [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 >
